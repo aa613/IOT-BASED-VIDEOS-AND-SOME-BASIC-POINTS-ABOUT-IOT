@@ -2,7 +2,7 @@
 <SOME BASIC CONCEPTS ABOUT IOT>
 <html>
   <head>
-    <title>Let's go in the world of internet of things</title>
+    <#>Let's go in the world of internet of things</#>
   </head>
   <body>
     <h1>History of IOT</h1>
@@ -13,7 +13,7 @@
 <ROLE OF SENSORS IN IOT>
 <html>
    <head>
-      <title>VIDEO BASED ON SENSORS</title>
+      <>VIDEO BASED ON SENSORS</>
    </head>
 
    <body>
